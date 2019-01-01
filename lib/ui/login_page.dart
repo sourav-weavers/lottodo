@@ -411,7 +411,7 @@ class _LoginPageState extends State<LoginPage>
                     ),
                     child: new Icon(
                       FontAwesomeIcons.facebookF,
-                      color: Color(0xFF0084ff),
+                      color: Color(0xFF3b5998),
                     ),
                   ),
                 ),
@@ -428,7 +428,7 @@ class _LoginPageState extends State<LoginPage>
                     ),
                     child: new Icon(
                       FontAwesomeIcons.google,
-                      color: Color(0xFF0084ff),
+                      color: Color(0xFFff3e30),
                     ),
                   ),
                 ),
